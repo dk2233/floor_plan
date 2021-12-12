@@ -1,10 +1,12 @@
 lp1 = 72.5
 ap1 = 13.0
-distance = 1.2
+distance = 0.8
 
-a1 = 208.0
-#length of room from door
-l1 = 462.0
+
+#how many rows
+a1 = 283.5
+#length of room with length of one plank 
+l1 = 215.0
 
 
 class OneSection:
